@@ -6,8 +6,8 @@
 ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 [![Build Status](https://img.shields.io/travis/dingo/api/master.svg?style=flat-square)](https://travis-ci.org/dingo/api)
-[![License](https://github.com/codesleeps/turbo-invention/blob/main/LICENSE)
 [![Development Version](https://img.shields.io/packagist/vpre/dingo/api.svg?style=flat-square)](https://packagist.org/packages/dingo/api)
+[![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
 [![Monthly Installs](https://img.shields.io/packagist/dm/dingo/api.svg?style=flat-square)](https://packagist.org/packages/dingo/api)
 [![StyleCI](https://styleci.io/repos/18673522/shield)](https://styleci.io/repos/18673522)
 
