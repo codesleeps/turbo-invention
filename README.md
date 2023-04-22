@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
-=======
+
 ## Jamacia Weather App ☀️
 
 
@@ -63,4 +61,4 @@
 - [x] Prettier 🔥
 - [x] Tabnine 🤖
 
->>>>>>> 935a1cc04f74a2e9eb17d69abc11c69bdfa8fb2f
+
