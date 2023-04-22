@@ -23,3 +23,12 @@
 [achievementsModule2](https://user-images.githubusercontent.com/125808990/226473142-e8869831-ae96-4667-af2e-5828c477256b.png)
 
 [achievementsModule3](https://user-images.githubusercontent.com/125808990/226473163-eee6dc4c-8abb-4a83-b166-3127f2d67f41.png)
+
+## ➤ VS Code - Extensions
+
+- [x] Quokka.js 🤖
+- [x] ESLint 🔥
+- [x] JavaScript (ES6) 
+- [x] Prettier 🔥
+- [x] Tabnine 🤖
+
