@@ -13,7 +13,6 @@
 
 
 
-(#microsoft-learn-)
 
 ## ➤ Microsoft Learn ✅
 
