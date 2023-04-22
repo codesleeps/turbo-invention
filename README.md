@@ -38,7 +38,7 @@
 
 [Thunder](https://user-images.githubusercontent.com/125808990/233785320-a804cc3f-d1c9-48cd-9e15-5a86cd170464.png)
 
-![Mobile View](https://user-images.githubusercontent.com/125808990/233785337-d9d86753-93d1-4b5f-82c6-ca6676c936f4.png)
+[Mobile View](https://user-images.githubusercontent.com/125808990/233785337-d9d86753-93d1-4b5f-82c6-ca6676c936f4.png)
 
 
 ## ➤ Microsoft Learn ✅
