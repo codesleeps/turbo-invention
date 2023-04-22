@@ -1,17 +1,17 @@
 
-## Jamacia Weather App ☀️
+## ➤ Jamacia Weather App ☀️
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Purpose 🎓
+## ➤ Purpose 🎓
 
  - UV index
  - Pressure
  - Humidity
  - 5 Day Forecast
  
-## [App](#)
+## ➤ [App](#)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
