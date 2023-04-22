@@ -1,0 +1,5 @@
+#wrapper-bg {
+	background-image: url(/assets/weather-animations/clouds.gif);
+	background-position: center;
+	background-size: cover;
+}

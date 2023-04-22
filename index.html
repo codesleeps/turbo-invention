@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+		<meta http-equiv="x-ua-compatible" content="ie=edge" />
+		<title>Material Design for Bootstrap</title>
+		<!-- MDB icon -->
+		<link rel="icon" href="img/mdb-favicon.ico" type="image/x-icon" />
+		<!-- Font Awesome -->
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+		<!-- Google Fonts Roboto -->
+		<link
+			rel="stylesheet"
+			href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+		<!-- MDB -->
+		<link rel="stylesheet" href="/assets/css/mdb.min.css" />
+		<link rel="stylesheet" href="/assets/css/styles.css" />
+	</head>
+	<body>
+		<!-- Start of project -->
+		<div class="container my-5">
+			<div class="row d-flex justify-content-center text-light">
+				<div class="col-lg-8 col-md-8">
+					<div id="wrapper-bg" class="card shadow-1-strong">
+						<!-- main current data  -->
+						<div class="card-header text-center border-0 mb-4">
+							<p class="h2 mb-1" id="wrapper-name"></p>
+							<p class="mb-1" id="wrapper-description"></p>
+							<p class="display-1 mb-1" id="wrapper-temp"></p>
+							<span>Pressure: <span id="wrapper-pressure"></span></span>
+							<span class="mx-2">|</span>
+							<span>Humidity: <span id="wrapper-humidity"></span></span>
+						</div>
+
+						<!-- hourly forecast  -->
+						<div class="card-body border-top border-bottom text-center">
+							<div class="row">
+								<!-- first col  -->
+								<div class="col-2">
+									<strong class="d-block mb-2">Now</strong>
+									<img id="wrapper-icon-hour-now" src="" alt="weather icon" />
+									<strong class="d-block" id="wrapper-hour-now"></strong>
+								</div>
+								<!-- second col  -->
+								<div class="col-2">
+									<strong id="wrapper-time-one" class="d-block mb-2"></strong>
+									<img id="wrapper-icon-hourOne" src="" alt="weather icon" />
+									<strong class="d-block" id="wrapper-hourOne"></strong>
+								</div>
+								<!-- third col  -->
+								<div class="col-2">
+									<strong id="wrapper-time-two" class="d-block mb-2"></strong>
+									<img id="wrapper-icon-hourTwo" src="" alt="weather icon" />
+									<strong class="d-block" id="wrapper-hourTwo"></strong>
+								</div>
+								<!-- fourth col  -->
+								<div class="col-2">
+									<strong id="wrapper-time-three" class="d-block mb-2"></strong>
+									<img id="wrapper-icon-hourThree" src="" alt="weather icon" />
+									<strong class="d-block" id="wrapper-hourThree"></strong>
+								</div>
+								<!-- fifth col  -->
+								<div class="col-2">
+									<strong id="wrapper-time-four" class="d-block mb-2"></strong>
+									<img id="wrapper-icon-hourFour" src="" alt="weather icon" />
+									<strong class="d-block" id="wrapper-hourFour"></strong>
+								</div>
+								<!-- sixth col -->
+								<div class="col-2">
+									<strong id="wrapper-time-five" class="d-block mb-2"></strong>
+									<img id="wrapper-icon-hourFive" src="" alt="weather icon" />
+									<strong class="d-block" id="wrapper-hourFive"></strong>
+								</div>
+							</div>
+						</div>
+						<!-- daily forecast  -->
+						<div class="card-body px-5">
+							<div class="row align-items-center">
+								<div class="col-md-6">
+									<strong>Today</strong>
+								</div>
+								<div class="col-md-2 text-center">
+									<img id="wrapper-icon-today" src="" alt="" />
+								</div>
+								<div class="col-md-4 text-end">
+									<span id="wrapper-forecast-temp-today"></span>
+								</div>
+							</div>
+							<div class="row align-items-center">
+								<div class="col-md-6">
+									<strong>Tomorrow</strong>
+								</div>
+								<div class="col-md-2 text-center">
+									<img id="wrapper-icon-tomorrow" src="" alt="" />
+								</div>
+								<div class="col-md-4 text-end">
+									<span id="wrapper-forecast-temp-tomorrow"></span>
+								</div>
+							</div>
+							<div class="row align-items-center">
+								<div class="col-md-6">
+									<strong>Day After Tomorrow</strong>
+								</div>
+								<div class="col-md-2 text-center">
+									<img id="wrapper-icon-DAT" src="" alt="" />
+								</div>
+								<div class="col-md-4 text-end">
+									<span id="wrapper-forecast-temp-DAT"></span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- End of project -->
+
+		<!-- MDB -->
+		<script type="text/javascript" src="/assets/js/mdb.min.js"></script>
+		<!-- Custom scripts -->
+		<script type="text/javascript"></script>
+		<script src="/assets/js/index.js"></script>
+	</body>
+</html>
