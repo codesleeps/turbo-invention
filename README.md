@@ -1,1 +1,11 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
+## Jamacia Weather App
+
+
+
+## Purpose
+
+ - UV index
+ - Pressure
+ - Humidity
+ - 5 Day Forecast
+ 
