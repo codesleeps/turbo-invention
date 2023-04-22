@@ -2,6 +2,7 @@
 ## Jamacia Weather App ☀️
 
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
 ## Purpose 🎓
 
@@ -12,6 +13,7 @@
  
 ## [App](#)
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
 ## ➤ Screenshots 📸
 
@@ -41,6 +43,7 @@
 
 [Mobile View](https://user-images.githubusercontent.com/125808990/233785337-d9d86753-93d1-4b5f-82c6-ca6676c936f4.png)
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
 ## ➤ Microsoft Learn ✅
 
@@ -52,6 +55,8 @@
 
 [achievementsModule3](https://user-images.githubusercontent.com/125808990/226473163-eee6dc4c-8abb-4a83-b166-3127f2d67f41.png)
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
+
 
 ## ➤ VS Code - Extensions
 
@@ -60,5 +65,32 @@
 - [x] JavaScript (ES6) 
 - [x] Prettier 🔥
 - [x] Tabnine 🤖
+
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#more-tutorials--projects-)
+
+## ➤ More Tutorials & Projects ✅
+
+youtube
+
+https://www.youtube.com/watch?v=aVLl1Lhvxo0&list=PLnHJACx3NwAf5ZJMIa-fNLKHS7MXtbJ1K  ✅
+
+Github
+
+https://github.com/john-smilga/javascript-basic-projects  ✅
+
+
+
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
+
+## ➤ Additional resources
+
+- [Coding Addict](https://johnsmilga.com)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [Java Point](https://www.javatpoint.com/jquery-example)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/jquery-examples/)
+- [Day.js](https://day.js.org)
+- [Node.js](https://nodejs.org/api/synopsis.html)
 
 
