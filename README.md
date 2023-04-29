@@ -1,6 +1,9 @@
 
 ## ➤ Jamacia Weather App ☀️
 
+## ➤ [App]()
+
+
 
 [![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
 
@@ -13,7 +16,6 @@
  - Humidity
  - 5 Day Forecast
  
-## ➤ [App](#)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
