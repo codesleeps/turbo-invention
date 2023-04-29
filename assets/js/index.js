@@ -126,17 +126,25 @@ fetch(file)
 		let iconFullyUrlHourFive = iconBaseUrl + iconHourFive + iconFormat;
 		document.getElementById('wrapper-icon-hourFive').src = iconFullyUrlHourFive;
 
-		// main = 'snow';
+		// main = 'lightning storm';
 
-		// backgrounds
+		// backgrounds using switch
 		switch (main) {
-			case 'snow':
+			case 'sunny':
 				document.getElementById('wrapper-bg').style.backgroundImage =
-					'url(/assets/weather-animations/snow.gif)';
+					'url(assets/weather-animations/sunny.gif)';
+				break;
+			case 'heavy rain':
+				document.getElementById('wrapper-bg').style.backgroundImage =
+					'url(/assets/weather-animations/heavy-rain.gif)';
 				break;
 			case 'clear':
 				document.getElementById('wrapper-bg').style.backgroundImage =
 					'url(assets/weather-animations/clear.gif)';
+				break;
+			case 'lightning storm':
+				document.getElementById('wrapper-bg').style.backgroundImage =
+					'url(assets/weather-animations/lightning-storm.gif)';
 				break;
 			case 'rain':
 				document.getElementById('wrapper-bg').style.backgroundImage =
@@ -149,6 +157,10 @@ fetch(file)
 			case 'clouds':
 				document.getElementById('wrapper-bg').style.backgroundImage =
 					'url(assets/weather-animations/clouds.gif)';
+				break;
+			case 'broken clouds':
+				document.getElementById('wrapper-bg').style.backgroundImage =
+					'url(assets/weather-animations/broken-clouds.gif)';
 				break;
 			case 'fog':
 				document.getElementById('wrapper-bg').style.backgroundImage =
