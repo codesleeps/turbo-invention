@@ -1,10 +1,8 @@
 
+
+
+
 ## ➤ Jamacia Weather App ☀️
-
-[![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
-
-![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
-
 
 ## ➤ [App](https://codesleeps.github.io/turbo-invention/)
 
